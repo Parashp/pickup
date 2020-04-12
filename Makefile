@@ -1,5 +1,4 @@
-PROJECT_NAME=pickup
-
+PROJECT_NAME=pickup22
 up:
 	docker-compose up -d --build
 
